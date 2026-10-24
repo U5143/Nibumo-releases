@@ -28,12 +28,12 @@ Please get Nibumo from the store page.
 
 ## 利用規約 / Terms
 
-- 使い方と利用規約は、アプリに同梱の README に書いてあります。
-- このリポジトリのファイルを、ほかの場所へ再配布しないでください。
-- アプリで使っているライブラリのライセンスは、同梱の `THIRD_PARTY_NOTICES.txt` にあります。
+- Nibumo は、購入した方個人が使うためのものです。
+- このリポジトリのファイルや解除の文字列を、ほかの人に渡したり、ほかの場所へ再配布したりしないでください。
+- アプリで使っているライブラリのライセンスは、アプリと一緒に入る `THIRD_PARTY_NOTICES.txt` にあります。
 
-- The terms of use are in the README bundled with the app.
-- Please do not redistribute the files in this repository.
-- Licences of the libraries Nibumo uses are listed in the bundled `THIRD_PARTY_NOTICES.txt`.
+- Nibumo is for the personal use of the person who bought it.
+- Please do not share the files in this repository or your unlock code with others, or redistribute them anywhere else.
+- Licences of the libraries Nibumo uses are listed in `THIRD_PARTY_NOTICES.txt`, which is installed with the app.
 
 © 2026 U+5143
